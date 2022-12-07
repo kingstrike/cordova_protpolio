@@ -59,3 +59,6 @@ packagingOptions {<br>
 → cordova run android --list <br>
 → 에뮬레이터에 실행 : cordova emulate android <br>
 → 기기(스마트폰)에 실행 : cordova run android <br><br>
+
+## ✍️ 레이아웃
+![레이아웃](https://user-images.githubusercontent.com/37572495/206092541-563d3c9c-1b55-478f-969a-3f998c93ad33.png)
